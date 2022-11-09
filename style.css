@@ -1,0 +1,56 @@
+body{
+  background-image: url(immagini/background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.logo{
+  width: 300px;
+}
+
+.logo-testo{
+  font-size: 50px;
+  color: lime;
+}
+
+.margini{
+  width: 1200px;
+  margin: auto;
+  background: #00000085;
+  padding: 100px;
+  border-radius: 15px;
+}
+
+header, .bottoni{
+  text-align: center;
+}
+
+.bottoni{
+  background-color: lime;
+  padding: 15px;
+}
+
+.monopattino{
+  color: white;
+}
+
+.statocarica1{
+  background-color: orange;
+  width: 350px;
+}
+
+.statocarica2{
+  background-color: lime;
+  width: 650px;
+}
+
+.statocarica3{
+  background-color: red;
+  width: 150px;
+}
+
+.statocarica1, .statocarica2, .statocarica3{
+  padding: 15px;
+  border-radius: 5px;
+}
